@@ -5,7 +5,7 @@ BCA-LAB-30@DESKTOP-QQUR5DM MINGW64 ~
 $ git config --global user.name "Raghavan alias Saravanan Muthu"
 
 BCA-LAB-30@DESKTOP-QQUR5DM MINGW64 ~
-$ git config --global user.email "raghavan.muthu@outlook.com"
+$ git config --global user.email "raghavan*****@o****k.c**"
 
 BCA-LAB-30@DESKTOP-QQUR5DM MINGW64 ~
 $ git config --global user.name
@@ -17,7 +17,7 @@ $ git config --global user.email\
 
 BCA-LAB-30@DESKTOP-QQUR5DM MINGW64 ~
 $ git config --global user.email
-raghavan.muthu@outlook.com
+raghavan*****@o****k.c**
 
 BCA-LAB-30@DESKTOP-QQUR5DM MINGW64 ~
 $ pwd
